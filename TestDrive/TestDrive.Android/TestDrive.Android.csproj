@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66EC69D7-F996-4076-B536-31B6264CBB4D}</ProjectGuid>
+    <ProjectGuid>{DAD709E9-50CE-48B0-AEF3-C4336994BAA2}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <RootNamespace>TestDrive.Droid</RootNamespace>
@@ -90,7 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestDrive\TestDrive.csproj">
-      <Project>{46E19F95-C46E-482D-85CF-546A017D9A76}</Project>
+      <Project>{6448A4D8-AE48-40DD-8DC0-327311066386}</Project>
       <Name>TestDrive</Name>
     </ProjectReference>
   </ItemGroup>

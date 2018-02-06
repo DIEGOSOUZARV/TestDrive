@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using TestDrive.Views;
+using TestDrive.View;
 using Xamarin.Forms;
 
 namespace TestDrive
@@ -12,6 +12,7 @@ namespace TestDrive
 		public App ()
 		{
 			InitializeComponent();
+
 			MainPage = new NavigationPage(new ListagemView());
 		}
 

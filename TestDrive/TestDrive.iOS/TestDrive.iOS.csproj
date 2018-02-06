@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{F80F9937-9048-46B6-8F66-8878FBE7BD2B}</ProjectGuid>
+    <ProjectGuid>{944079E7-2072-4841-9C41-1622AA13688C}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>TestDrive.iOS</RootNamespace>
@@ -133,7 +133,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\TestDrive\TestDrive.csproj">
-      <Project>{46E19F95-C46E-482D-85CF-546A017D9A76}</Project>
+      <Project>{6448A4D8-AE48-40DD-8DC0-327311066386}</Project>
       <Name>TestDrive</Name>
     </ProjectReference>
   </ItemGroup>

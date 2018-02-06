@@ -15969,11 +15969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.UWP\\TestDrive.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.UWP\\TestDrive.UWP.csproj",
       "projectName": "TestDrive.UWP",
-      "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.UWP\\TestDrive.UWP.csproj",
+      "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.UWP\\TestDrive.UWP.csproj",
       "packagesPath": "C:\\Users\\diego.smelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.UWP\\obj\\",
+      "outputPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -15994,8 +15994,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
-              "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
+            "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
+              "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
             }
           }
         }

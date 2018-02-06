@@ -4514,11 +4514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.Android\\TestDrive.Android.csproj",
+      "projectUniqueName": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.Android\\TestDrive.Android.csproj",
       "projectName": "TestDrive.Android",
-      "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.Android\\TestDrive.Android.csproj",
+      "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.Android\\TestDrive.Android.csproj",
       "packagesPath": "C:\\Users\\diego.smelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.Android\\obj\\",
+      "outputPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4539,8 +4539,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
-              "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
+            "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
+              "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
             }
           }
         }

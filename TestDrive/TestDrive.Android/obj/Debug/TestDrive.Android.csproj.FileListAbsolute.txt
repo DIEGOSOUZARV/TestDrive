@@ -1,158 +1,62 @@
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
-C:\Users\gilvan.dgalindo\Documents\Visual Studio 2017\Projects\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\TestDrive.Android.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
-C:\AULAS\XAMARIN\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\FormsViewGroup.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\TestDrive.Android.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\AULA-8\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\TestDrive.Android.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\gabriel.acalves\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
-C:\Users\diego.smelo\Desktop\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\TestDrive.Android.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\marcos.asgotado\source\repos\TestDrive\TestDrive\TestDrive.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.pdb
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive.apk
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.TestDrive-Signed.apk
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csprojResolveAssemblyReference.cache
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.csproj.CoreCompileInputs.cache
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.dll
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\TestDrive.Android.pdb
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\android\bin\com.companyname.TestDrive.apk
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable\icon.png
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\res\values\styles.xml
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\R.cs.flag
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\obj\Debug\uploadflags.txt
+C:\Users\mizael.wmsilva\Desktop\TesteDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\GalaSoft.MvvmLight.dll.mdb
 bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb

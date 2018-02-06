@@ -6280,11 +6280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
       "projectName": "TestDrive.iOS",
-      "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
+      "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
       "packagesPath": "C:\\Users\\diego.smelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive.iOS\\obj\\",
+      "outputPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -6305,8 +6305,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
-              "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
+            "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
+              "projectPath": "C:\\Users\\diego.smelo\\Desktop\\TesteDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
             }
           }
         }

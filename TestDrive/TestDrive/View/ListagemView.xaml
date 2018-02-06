@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestDrive.View.ListagemView"
+             xmlns:vm="clr-namespace:TestDrive.ViewModel"
+             Title="Listagem de Veiculos"
+             >
+    <ContentPage.Content>
+        <StackLayout Padding="25">
+            <ActivityIndicator
+                IsRunning="{Binding Aguarde}"
+                IsVisible="{Binding Aguarde}"
+                />
+            <ListView
+                x:Name="lstViewVeiculos"
+                ItemsSource="{Binding Veiculos}"
+                SelectedItem="{Binding VeiculoSelecionado}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Nome}"/>
+                                <Label Text="-"/>
+                                <Label Text="{Binding PrecoFormatado}"/>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
